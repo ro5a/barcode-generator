@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#barcode {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}

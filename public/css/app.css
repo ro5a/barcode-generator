@@ -1,0 +1,11 @@
+
+body {
+    height: 100vh;
+    margin: 0;
+}
+
+#barcode {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
